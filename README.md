@@ -1,2 +1,2 @@
 # Word count
-# This program will tokenize document and calculate frequency of each words
+# This repository contain NLP program to provide full understanding about tokenization, word frequency and other things
